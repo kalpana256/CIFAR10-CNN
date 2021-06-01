@@ -1,1 +1,1 @@
-# CIFAR10-Image_Classification
+# CIFAR10-CNN
